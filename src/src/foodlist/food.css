@@ -1,0 +1,52 @@
+img {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.thumbnail{
+  width: 310px;
+  height: 310px;
+}
+
+.testa{
+  float:left;
+  margin: 10px;
+}
+
+.testa img {
+  height: 222px;
+  margin-left: 10px;
+  margin-top: 8px;
+  width: 222px;
+}
+
+.select-box,
+.sel-list,
+.sel-btn {
+  float: left;
+}
+
+.select-box {
+  align-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.sel-list {
+  margin-left: 40px;
+}
+
+.sel-list select {
+  border: solid 1px #e0e0e0;
+  height: 33px;
+  width: 100px;
+}
+
+.sel-list .ant-select {
+  width: 120px;
+}
+
+.sel-btn{
+  margin: 1px 0px 0px 10px;
+}
+

@@ -1,0 +1,9 @@
+:root {
+  --body-background-color: #0b0b0d;
+  --calendar-background-color: #101114;
+  --sidebar-background-color: #121317;
+  --dates-background-color: #0e0f12;
+  --main-highlight: #44ff00;
+  --ninety-deg-gradient: linear-gradient(90deg, rgba(68,255,0,1) 0%, rgba(162,255,0,1) 100%);
+  --fortyFive-deg-gradient: linear-gradient(45deg, rgba(68,255,0,1) 0%, rgba(162,255,0,1) 100%);
+}
